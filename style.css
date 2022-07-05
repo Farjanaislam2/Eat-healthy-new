@@ -1,0 +1,74 @@
+section {
+    display: flex;
+    margin: 80px;
+}
+
+.orange {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+    margin-top: 50px;
+    padding-left: 5%;
+
+}
+
+.half-width img {
+    width: 50%;
+    padding: 2%;
+
+}
+
+p {
+    padding-bottom: 20px;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    font-weight: 700px;
+    padding: 10px 40px;
+    border-radius: 15px;
+    background-color: orangered;
+    background-image: linear-gradient(orange, orangered);
+
+}
+
+.background {
+    background-image: url(images/shapes/7.png);
+}
+
+.recipes {
+    text-align: center;
+}
+
+.picture {
+    box-shadow: 1px 10px 40px gray;
+    width: 40%;
+    margin-right: 5%;
+    padding-top: 10px;
+    border-radius: 15px;
+
+}
+
+.subscriber {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 1px 10px 40px gray;
+    padding-bottom: 20px;
+    background-size: 40%;
+    margin-right: 11%;
+
+
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+
+    background-position: 100%;
+    height: 100px;
+}
